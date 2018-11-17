@@ -1,6 +1,6 @@
 # Tarea_3
-Desayuno
-===
+Algoritmo para organizar el desayuno
+
 Cortar naranja 
 Preparar jugo de naranja
 Servir jugo de naranja en un vaso
